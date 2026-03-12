@@ -28,4 +28,4 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://helpsfubotv.readthedocs.io/en/latest/'
+html_baseurl = 'https://helpsfubotvaccount.readthedocs.io/en/latest/'
